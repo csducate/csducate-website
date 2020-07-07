@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD in Criminal Justice
-    institution: Indiana University University
+    institution: Indiana University
     year: 2016-Present
   - course: MSc in Forensic Psychology
     institution: University of Kent at Canterbury
@@ -38,10 +38,7 @@ education:
   - course: MSc in Psychology
     instutition: Leeds Beckett University
     year: 2013
-  - course: BSc in Psychology
-    institution: Furman University
-    year: 2012
-  - course: BA in Asian Studies
+  - course: BSc in Psychology, BA in Asian Studies
     institution: Furman University
     year: 2012
 
@@ -52,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:csducate@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/csducate
