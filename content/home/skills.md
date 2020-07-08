@@ -31,6 +31,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Git"
   #description = "30%"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "JavaScript"
+  #description = "30%"
   
 [[feature]]
   icon = "file-word"
