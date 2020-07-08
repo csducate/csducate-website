@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research Experience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Indiana University"
   company_url = ""
   location = ""
-  date_start = "Spring 2020"
-  date_end = "Summer 2020"
+  date_start = "2020-01-01"
+  date_end = "2020-06-01"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Indiana University"
   company_url = ""
   location = ""
-  date_start = "Summer 2017"
-  date_end = "Summer 2020"
+  date_start = "2017-05-01"
+  date_end = "2020-07-01"
   description = """
   Responsibilities include:
   
@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   company = "Furman University"
   company_url = ""
   location = ""
-  date_start = "2010"
-  date_end = "2012"
+  date_start = "2010-05-01"
+  date_end = "2012-08-01"
   description = """
   Responsibilities include:
   
