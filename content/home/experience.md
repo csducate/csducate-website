@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Indiana University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = ""
+  date_start = "Spring 2020"
+  date_end = "Summer 2020"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Laura and John Arnold Foundation grant project examining fines and fees for those on probation and parole
+  * Data cleaning and statistical analyses
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Assistant"
+  company = "Indiana University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "Summer 2017"
+  date_end = "Summer 2020"
+  description = """
+  Responsibilities include:
+  
+  * Assisted on project assessing the influence of coercive control on criminal behavior
+  * Performed lit review on methods of measuring implicit cognition
+  * Helped design instrument to measure implicit theories
+  * Coded experiment and connected with Amazon Mechanical Turk
 
+  """
+  
+[[experience]]
+  title = "Researcher"
+  company = "Furman University"
+  company_url = ""
+  location = ""
+  date_start = "2010"
+  date_end = "2012"
+  description = """
+  Responsibilities include:
+  
+  * Conducted two research projects on social anxiety
+  * Edited and coded videos
+  * Presented results at local and national conferences
+
+  """
 +++
