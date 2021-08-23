@@ -21,11 +21,11 @@ organizations:
 bio: I am a Ph.D. candidate at Indiana University. My research interests include how cognitive schemata such as identity influence criminal offending behavior.
 
 interests:
+- Identity & Crime
+- Gender & Crime
 - Intimate Partner & Sexual Violence
 - Social Psychology
-- Gender & Sexuality
 - Quantitative Methods & Analysis
-- Theories of Crime
 
 education:
   courses:
@@ -36,10 +36,10 @@ education:
       institution: University of Kent, Canterbury
       year: 2014
     - course: M.S. in Psychology
-      institution: Leeds Beckett University (formerly Leeds Metropolitan University)
+      institution: Leeds Beckett University (formerly Leeds Metropolitan University), Leeds
       year: 2013
     - course: B.S. in Psychology, B.A. Asian Studies
-      institution: Furman University
+      institution: Furman University, Greenville
       year: 2012
 
 # Social/Academic Networking
@@ -59,6 +59,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/csducate/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-7711-5314
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
