@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "static/pdfs/Ducate_2021_ITIPV.pdf"
+url_pdf: "pdfs/Ducate_2021_ITIPV.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
