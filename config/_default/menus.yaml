@@ -17,6 +17,12 @@ main:
   - name: Teaching
     url: courses/
     weight: 40
+  - name: Grants & Fellowships
+    url: grants/
+    weight: 50
+  - name: Curriculum Vitae
+    url: uploads/ducate_cv.pdf
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 70

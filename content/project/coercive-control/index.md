@@ -28,4 +28,4 @@ url_video: ""
 # slides: example
 ---
 
-This project is a component of 
+

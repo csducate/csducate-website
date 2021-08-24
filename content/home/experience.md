@@ -5,6 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -22,19 +23,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Assistant
-    company: Indiana University
+  - title: "Summer Graduate Assistant"
+    company: "Indiana University"
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2021-05-07'
+    date_start: '2017-05-07'
     date_end: '2021-07-31'
-    # description: |2-
-    #     Responsibilities include:
-    #     
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+    description: "Assisted on project assessing the influence of coercive control on criminal behavior"
+ 
+    
+  - title: "Research Assistant"
+    company: "Indiana University"
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2020-01-12'
+    date_end: '2020-06-30'
+    description: "Laura and John Arnold Foundation grant project examining fines and fees for those on probation and parole"
+  - title: "Researcher"
+    company: "Furman University"
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2010-06-01'
+    date_end: '2012-05-01'
+    description: "Assisted on project investigating social anxiety and behavior"
+    
 
 design:
   columns: '2'
