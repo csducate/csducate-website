@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Caitlin Ducate
+title: Caitlin S. Ducate
 
 # Username (this should match the folder name)
 authors:
@@ -77,4 +77,4 @@ social:
 
 Caitlin Ducate is a Ph.D. candidate in the Department of Criminal Justice at Indiana University. Her research interests include how cognitive schemata such as identity and implicit cognitions influence criminal offending behavior. Her dissertation explores how threats to masculine and feminine gender identities may cause deviant behavior through the mechanism of emotion.
 
-{{< icon name="download" pack="fas" >}} Check out my {{< staticref "uploads/ducate_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ducate_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.

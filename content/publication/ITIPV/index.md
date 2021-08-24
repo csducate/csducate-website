@@ -3,7 +3,7 @@ title: "Measuring males' and females' implicit theories of intimate partner viol
 authors:
 - admin
 date: "2021-05-17"
-doi: "http://doi.org/10.1080/15564886.2021.1925796"
+doi: "10.1080/15564886.2021.1925796"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Intimate partner violence (IPV) is a serious problem in the United States. The present study investigates whether a subset of unconscious cognitions known as implicit theories contribute to IPV. Thirty-three male and female university students completed a lexical decision task (LDT), which uses reaction times to gauge the degree of support for statements related to IPV. Findings indicated that IPV perpetrators held some implicit theories more strongly than non-perpetrators. Implications for treatment and research are discussed, as is the value of using tools like the LDT to measure otherwise elusive cognitive structures supporting deviant behavior.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - offender cognition
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: Ducate_2021_ITIPV.pdf
+url_pdf: "static/pdfs/Ducate_2021_ITIPV.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
