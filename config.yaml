@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Caitlin S. Ducate # Website name
 baseurl: 'https://csducate.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© Caitlin S. Ducate {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
