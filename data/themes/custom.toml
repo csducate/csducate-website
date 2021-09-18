@@ -1,0 +1,39 @@
+# Theme metadata
+name = "Custom"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary
+primary = "#016ca8"
+primary_light = "#016ca8"
+primary_dark = "#b6e4ff"
+
+# Menu
+menu_primary = "#016ca8"
+menu_text = "#f9f7f6"
+menu_text_active = "#f9f7f6"
+menu_title = "#f9f7f6"
+
+# Links
+link = "#016ca8"
+link_hover = "#00507f"
+link_decoration = "underline"
+
+# Home sections
+home_section_odd = "#f9f7f6"
+home_section_even = "#ffffff"
+dark_home_section_even = "#003d5f"
+dark_home_section_odd = "#002940"
+
+background = "#ffffff"
+
+font = "rose"
+
+[dark]
+  menu_primary = "#003d5f"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+  link = "#b6e4ff"
+  link_hover = "#b6e4ff"

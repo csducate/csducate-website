@@ -47,4 +47,4 @@ header:
   - From: Academy of Criminal Justice Sciences
 - Department of Criminal Justice Travel Grant (2017)
   - Amount: $300 
-  - From: Department of Criminal Justice, Indiana University  
+  - From: Department of Criminal Justice, Indiana University

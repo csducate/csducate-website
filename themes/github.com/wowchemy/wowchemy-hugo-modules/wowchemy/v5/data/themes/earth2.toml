@@ -5,14 +5,15 @@ name = "Earth2"
 is_light = true
 
 # Primary
-primary = "#707070"
+#primary = "#707070"
+primary = "#00a3ff"
 
 # Menu
 #menu_primary = "#f6eee9"
-menu_primary = "#d0eef4"
-menu_text = "#000"
-menu_text_active = "#000"
-menu_title = "#000"
+menu_primary = "#016ca8"
+menu_text = "#ffffff"
+menu_text_active = "#ffffff"
+menu_title = "#ffffff"
 
 # Links
 link = "#707070"

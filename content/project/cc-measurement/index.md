@@ -1,6 +1,6 @@
 ---
 title: "Measurement and Analysis of Implicit Cognitions Using a Lexical Decision Task"
-summary: ""
+summary: "This project evaluates the utility of a lexical decision task (LDT) for criminological research. LDTs are reaction-time tests where people quickly read sentence stems then indicate whether a subsequent letter string forms a word. LDTs are an alternative to popular yet problematic Implicit Association Tests for measuring implicit cognitions. The current study assesses whether LDT data are useful for: (1) measuring implicit theoretical constructs; (2) indicating survey respondent attention or data quality problems."
 tags:
 - measurement
 - reaction times
@@ -28,6 +28,13 @@ url_video: ""
 # slides: example
 ---
 
+**Research Stage**: Analysis
+
+<br>
+
+## ASC Abstract (2021)
+<br>
+
 **Objective**: This project evaluates the utility of a lexical decision task (LDT) for criminological research. LDTs are reaction-time tests where people quickly read sentence stems then indicate whether a subsequent letter string forms a word. LDTs are an alternative to popular yet problematic Implicit Association Tests for measuring implicit cognitions. The current study assesses whether LDT data are useful for: (1) measuring implicit theoretical constructs; (2) indicating survey respondent attention or data quality problems. 
 
 **Methods**: Data were collected from 1325 people through the online platform Amazon Mechanical Turk (MTurk). Participants completed an LDT and a corresponding self-report survey tapping two potentially criminogenic cognitions: Hostile Attributions/Calculative View of Others and Retaliatory Ethic/Toughness Image.
@@ -36,6 +43,6 @@ url_video: ""
 
 **Conclusions**: As online-distributed surveys proliferate, LDT methods may serve dual purposes: to improve construct measurement and to screen out low-quality data.
 
-This project is a component of the [Coercive control project]({{< ref "coercive-control/index.md" >}}).
+This project is a component of the [Coercive Control and Deviance project]({{< ref "coercive-control/index.md" >}}).
 
 ***Note**: This project will be presented at the 2021 American Society of Criminology conference in Chicago, Illinois.* 
