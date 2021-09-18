@@ -54,7 +54,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/csducate
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=OKZq80AAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -63,10 +63,10 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0001-7711-5314
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/ducate_cv.pdf
+# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#   - icon: cv
+#     icon_pack: ai
+#     link: uploads/ducate_cv.pdf
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
