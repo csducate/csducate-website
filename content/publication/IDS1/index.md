@@ -23,18 +23,18 @@ publication_short: ""
 abstract: Historically, the news media have engaged in high rates victim blaming in their reporting of sexual assaults. However, in recent years, gains in civil rights and renewed attention to Title IX may mean sexual assault victims are receiving less-biased news coverage. Using a content analysis, we examined the tone and message of all crime stories published in one United States university newspaper from academic year 2015–2016 (n = 99). Comparing attributions of responsibility made to both victims and offenders across several major crime categories (rape, murder, sexual assault, robbery, physical assault, sexual misconduct, and sexual abuse), and consistent with historical trends, we found higher levels of victim blaming in stories on rape and sexual assault than any other crime. We identify rhetorical devices commonly used to discredit the victim and/or absolve the perpetrator. Despite perceived gains achieved by Title IX, news coverage continues to buttress victim blaming culture.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper looked at the differences between how student journalists reported on sexual offenses versus other types of crime. We found that they used more victim-blaming and suspect-mitigating language when writing about sexual assault than when writing about other types of crime such as murder and robbery.
 
 tags:
-- offender cognition
-- lexical decision test
-- reaction time
+- crime in the media
+- victim blaming
+- suspect mitigation
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: Ducate_2021_ITIPV.pdf
+url_pdf: "pdfs/NorthcuttBohmertetal_2018_FMS_construction_of_a_crime.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
