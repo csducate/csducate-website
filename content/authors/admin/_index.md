@@ -21,22 +21,23 @@ organizations:
 bio: I am a Ph.D. candidate at Indiana University. My research interests include how cognitive schemata such as identity influence criminal offending behavior.
 
 interests:
-- Identity & Crime
+- Identity
 - Gender & Crime
-- Intimate Partner & Sexual Violence
 - Social Psychology
+- Offender Decision-Making
+- Intimate Partner Violence
 - Quantitative Methods & Analysis
 
 education:
   courses:
     - course: Ph.D. in Criminal Justice
       institution: Indiana University, Bloomington
-      year: 2016-Present
+      year: Present
     - course: M.S. in Forensic Psychology
       institution: University of Kent, Canterbury
       year: 2014
     - course: M.S. in Psychology
-      institution: Leeds Beckett University (formerly Leeds Metropolitan University), Leeds
+      institution: Leeds Beckett University, Leeds
       year: 2013
     - course: B.S. in Psychology, B.A. Asian Studies
       institution: Furman University, Greenville
