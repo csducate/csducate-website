@@ -20,9 +20,12 @@ main:
   - name: Grants & Fellowships
     url: grants/
     weight: 50
+  - name: Posts
+    url: posts/
+    weight: 60
   - name: Curriculum Vitae
     url: uploads/ducate_cv.pdf
-    weight: 60
+    weight: 90
   # - name: Contact
   #   url: '#contact'
   #   weight: 70

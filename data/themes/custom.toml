@@ -27,7 +27,7 @@ link_decoration = "underline"
 home_section_odd = "#e0f1fb"
 home_section_even = "#e7f5fd"
 
-font = "rose"
+font = "custom"
 
 [dark]
   menu_primary = "#003d5f"
