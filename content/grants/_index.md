@@ -9,6 +9,8 @@ header:
   image: ""
 ---
 
+I have applied for and received several grants and fellowships during my Ph.D.
+
 ## Fellowships & Scholarships
 
 - Dissertation Research Fellowship
@@ -48,3 +50,5 @@ header:
 - Department of Criminal Justice Travel Grant (2017)
   - Amount: $300 
   - From: Department of Criminal Justice, Indiana University
+  
+# Total: $27,058.34

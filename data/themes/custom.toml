@@ -9,13 +9,14 @@ primary = "#016ca8"
 primary_light = "#016ca8"
 primary_dark = "#006aa5"
 
+background = "#e0f1fb"
 dark_background = "#022b42"
 
 # Menu
 menu_primary = "#016ca8"
-menu_text = "#f6efe0"
-menu_text_active = "#f6efe0"
-menu_title = "#f6efe0"
+menu_text = "#e0f1fb"
+menu_text_active = "#e0f1fb"
+menu_title = "#e0f1fb"
 
 # Links
 link = "#016ca8"
@@ -23,12 +24,8 @@ link_hover = "#00507f"
 link_decoration = "underline"
 
 # Home sections
-home_section_odd = "#f6efe0"
-home_section_even = "#ffffff"
-#dark_home_section_even = "#000000"
-#dark_home_section_odd = "#000000"
-
-background = "#ffffff"
+home_section_odd = "#e0f1fb"
+home_section_even = "#e7f5fd"
 
 font = "rose"
 
@@ -42,3 +39,7 @@ font = "rose"
   background = "#001c2c"
   link = "#006aa5"
   link_hover = "#b6e4ff"
+  
+
+# Colors I Like:
+## #f6efe0 is a creamy tan
